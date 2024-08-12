@@ -1,0 +1,19 @@
+nav {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display: flex;
+  gap: 10px;
+}
+
+.link {
+  color: #000;
+  background-color: #96ceb4;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.link:hover {
+  background-color: #e9ecef;
+}
